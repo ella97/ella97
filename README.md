@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Noella Mwanri
 
-<!--
-**ella97/ella97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 Linkedin: https://www.linkedin.com/in/noella-mwanri/
 Email: nuwymwanri@gmail.com
 - ⚡ Fun fact: I enjoy traveling and photography.
--->
+
